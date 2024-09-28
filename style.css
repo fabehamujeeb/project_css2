@@ -1,0 +1,27 @@
+/*comment*/
+.pd {
+    font-family: 'Times New Roman';
+}
+
+* {
+    font-variant: small-caps;
+    font-size: large;
+}
+
+.pd,h1 {
+    font-family: times 'Times New Roman';
+    color: maroon;
+}
+
+#para {
+    color: black
+}
+body {
+    background-color: rgb(219, 219, 219);
+        background-image: url("car.jpg");
+        background-position: bottom left;
+        background-repeat: no-repeat;
+        background-size: 200px;
+        margin-bottom: 220px;
+        background-attachment: scroll;
+}
